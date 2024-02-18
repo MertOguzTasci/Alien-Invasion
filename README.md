@@ -19,7 +19,7 @@ Navigate into the project directory and Run the game using Python:
 python alien_invasion.py
 ```
 
-Note: You need pygame library installed to be able to run the project! You can installed pygame with the following command:
+Note: You need pygame library installed to be able to run the project! You can install pygame library with the following command:
 ```bash
 pip install pygame
 ```
