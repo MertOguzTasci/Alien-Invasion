@@ -14,7 +14,7 @@ loses a ship. If the player loses three ships, the game ends.
 To run Alien Invasion, you need to have Python 3.9 installed on your system. Clone this repository to your local machine using:
 
 ```bash
-git clone https://github.com/your-username/alien-invasion.git
+git clone https://github.com/MertOguzTasci/Alien-Invasion.git
 Navigate into the project directory:
 ```
 
